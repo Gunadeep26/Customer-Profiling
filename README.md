@@ -1,0 +1,1 @@
+Performed unsupervised clustering on customer records extracted from a grocery firm's database. Utilized dimensionality reduction followed by agglomerative clustering, leading to the identification of four distinct clusters. Subsequently, applied these clusters to profile customers based on their family structures and income/spending patterns
